@@ -9,7 +9,7 @@
     "key": {
         "I": {
             "type": "forge:ore_dict",
-            "ore": "genTitanite"
+            "ore": "gemTitanite"
         },
         "S": {
             "type": "forge:ore_dict",
@@ -17,7 +17,7 @@
         },
         "T": {
             "type": "forge:ore_dict",
-            "ore": "genTitaniteTwinkling"
+            "ore": "gemTitaniteTwinkling"
         }
     },
     "result": {
