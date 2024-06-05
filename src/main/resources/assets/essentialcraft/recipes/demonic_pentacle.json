@@ -17,7 +17,7 @@
         },
         "C": {
             "type": "forge:ore_dict",
-            "ore": "core_void"
+            "ore": "coreVoid"
         }
     },
     "result": {
